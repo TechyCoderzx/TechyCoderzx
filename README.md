@@ -45,8 +45,8 @@ An elevator optimization project focused on improving elevator operation and han
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TechyCoderzx&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechyCoderzx&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages" />
 </p>
 
 ---
