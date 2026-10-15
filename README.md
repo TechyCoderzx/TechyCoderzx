@@ -9,7 +9,7 @@
 
 Building projects, exploring technology, and learning by doing.
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:YOUR_EMAIL)
+[LinkedIn](https://www.linkedin.com/in/shoaib-junaid-khan/) · [Email](techytravell7@gmail.com)
 
 </div>
 
